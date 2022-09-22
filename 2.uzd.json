@@ -1,0 +1,19 @@
+{
+    "Sheet1": [
+        {
+            "Veids": "RAM",
+            "Modelis": "DDR4",
+            "Cena": "80"
+        },
+        {
+            "Veids": "GPU",
+            "Modelis": "GeForce 1050Ti",
+            "Cena": "200"
+        },
+        {
+            "Veids": "CPU",
+            "Modelis": "i5",
+            "Cena": "60"
+        }
+    ]
+}
